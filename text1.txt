@@ -1,4 +1,4 @@
 Sample txt for git hub 
-a = 1
-b = 2
-a+b=3
+a = 5
+b = 10
+a+b=15
